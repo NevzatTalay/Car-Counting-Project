@@ -33,8 +33,8 @@ To get started with the Car Counting Project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CarCountingProject.git
-    cd CarCountingProject
+    git clone https://github.com/yourusername/Car-Counting-Project.git
+    cd Car-Counting-Project
     ```
 
 2. Install the required packages:
