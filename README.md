@@ -73,13 +73,9 @@ Car-Counting-Project/
 
 Here are some examples of the car counting project in action:
 
-### Input Video
-
-![Input Video](path/to/input/video/image.png)
-
 ### Output Video
 
-![Output Video](path/to/output/video/image.gif)
+![Output Video](path/to/output/video/putput.gif)
 
 ## Contributing
 
