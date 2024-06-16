@@ -75,7 +75,7 @@ Here are some examples of the car counting project in action:
 
 ### Output Video
 
-![]([https://github.com/NevzatTalay/Car-Counting-Project/blob/main/assets/output.gif](https://github.com/NevzatTalay/Car-Counting-Project/blob/main/assets/OUTPUT.gif))
+![](https://github.com/NevzatTalay/Car-Counting-Project/blob/main/assets/OUTPUT.gif)
 
 ## Contributing
 
