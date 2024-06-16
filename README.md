@@ -1,4 +1,3 @@
-```markdown
 # Car Counting Project
 
 ![Project Banner](path/to/banner/image.png)
@@ -104,4 +103,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5)
 - [OpenCV](https://opencv.org/)
-```
