@@ -75,7 +75,7 @@ Here are some examples of the car counting project in action:
 
 ### Output Video
 
-![Output Video](path/to/output/video/putput.gif)
+![Output Video](assets/output.gif)
 
 ## Contributing
 
