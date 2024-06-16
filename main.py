@@ -6,7 +6,7 @@ import numpy as np
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  # Choose from 'yolov5s', 'yolov5m', 'yolov5l', 'yolov5x'
 
 # Read the video file
-video_path = 'Cars Moving On Road Stock Footage - Free Download.mp4'  # Path to your video file
+video_path = 'input/Cars Moving On Road Stock Footage - Free Download.mp4'  # Path to your video file
 cap = cv2.VideoCapture(video_path)
 
 # Counter and line coordinates
