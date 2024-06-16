@@ -66,8 +66,7 @@ Car-Counting-Project/
 ├── main.py             # Main script to run the car counting
 ├── requirements.txt    # List of required packages
 ├── README.md           # Project documentation
-└── data/               # Directory to store videos and other data
-    ├── input/          # Directory for input videos
+└── input/               # Directory for input videos
 ```
 
 ## Examples
