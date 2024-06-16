@@ -31,8 +31,8 @@ To get started with the Car Counting Project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CarCountingProject.git
-    cd CarCountingProject
+    git clone https://github.com/yourusername/Car-Counting-Project.git
+    cd Car-Counting-Project
     ```
 
 2. Install the required packages:
@@ -61,7 +61,7 @@ python main.py --video path/to/your/video.mp4 --output path/to/save/output.mp4
 ## Project Structure
 
 ```plaintext
-CarCountingProject/
+Car-Counting-Project/
 │
 ├── main.py             # Main script to run the car counting
 ├── requirements.txt    # List of required packages
