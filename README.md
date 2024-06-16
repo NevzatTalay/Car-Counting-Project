@@ -1,3 +1,4 @@
+```markdown
 # Car Counting Project
 
 ![Project Banner](path/to/banner/image.png)
@@ -33,8 +34,8 @@ To get started with the Car Counting Project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Car-Counting-Project.git
-    cd Car-Counting-Project
+    git clone https://github.com/yourusername/CarCountingProject.git
+    cd CarCountingProject
     ```
 
 2. Install the required packages:
@@ -47,3 +48,60 @@ To get started with the Car Counting Project, follow these steps:
 Run the script with the following command:
 ```sh
 python main.py
+```
+
+### Example Command
+
+```sh
+python main.py --video path/to/your/video.mp4 --output path/to/save/output.mp4
+```
+
+### Command-line Arguments
+
+- `--video`: Path to the input video file.
+- `--output`: Path to save the output video file with detected cars and counting.
+
+## Project Structure
+
+```plaintext
+CarCountingProject/
+│
+├── main.py             # Main script to run the car counting
+├── requirements.txt    # List of required packages
+├── README.md           # Project documentation
+└── data/               # Directory to store videos and other data
+    ├── input/          # Directory for input videos
+    └── output/         # Directory for output videos
+```
+
+## Examples
+
+Here are some examples of the car counting project in action:
+
+### Input Video
+
+![Input Video](path/to/input/video/image.png)
+
+### Output Video
+
+![Output Video](path/to/output/video/image.gif)
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5)
+- [OpenCV](https://opencv.org/)
+```
