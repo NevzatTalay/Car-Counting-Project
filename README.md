@@ -68,7 +68,6 @@ Car-Counting-Project/
 ├── README.md           # Project documentation
 └── data/               # Directory to store videos and other data
     ├── input/          # Directory for input videos
-    └── output/         # Directory for output videos
 ```
 
 ## Examples
