@@ -1,7 +1,5 @@
 # Car Counting Project
 
-![Project Banner](path/to/banner/image.png)
-
 This project uses YOLOv5 to detect and count cars in a video. The code is written in Python and utilizes OpenCV for video processing.
 
 ## Table of Contents
